@@ -1,0 +1,16 @@
+body {
+  background-color: lightgray;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  display: inline-block;
+}
+img {
+  float: left;
+  margin: 25px 20px 10px 0px;
+}
+
